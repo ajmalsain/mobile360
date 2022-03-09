@@ -1,0 +1,10 @@
+function abc()
+{
+
+if(document.form2.t1.value==""|| document.form2.t2.value==""|| document.form2.t3.value==""|| document.form2.fname.value=="")
+{
+  alert ("Please Enter all details");
+  return(false);
+}
+  
+}
